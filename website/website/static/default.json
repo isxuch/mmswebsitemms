@@ -1,0 +1,360 @@
+{
+  "nav": [{
+      "name": "首页",
+      "link": "#",
+      "to":"home"
+    },
+    {
+      "name": "资源展示",
+      "link": "#",
+      "to":"resourceId"
+    },
+    {
+      "name": "精品专栏",
+      "link": "#",
+      "to":"boutiqueId"
+    },
+    {
+      "name": "关于我们",
+      "link": "#",
+      "to":"aboutId"
+    }
+  ],
+  "slides": [{
+      "name": "轮播1",
+      "imgUrl":"../../images/slides/slide01.png",
+      "link": "#"
+    },
+    {
+      "name": "轮播2",
+      "imgUrl":"../../images/slides/slide01.png",
+      "link": "#"
+    },
+    {
+      "name": "轮播3",
+      "imgUrl":"../../images/slides/slide01.png",
+      "link": "#"
+    },
+    {
+      "name": "轮播4",
+      "imgUrl":"../../images/slides/slide01.png",
+      "link": "#"
+    },
+    {
+      "name": "轮播5",
+      "imgUrl":"../../images/slides/slide01.png",
+      "link": "#"
+    }
+  ],
+  "readResource":
+  {
+    "title":"以悦读为核心的女性文化矩阵",
+    "icon":"../../images/accounts/yd.png",
+    "name":"悦读",
+    "synopsis":"中国第一女性微刊",
+    "slogan":"人物/情感/夜读/美学/情商",
+    "synopsisUrl":"../../images/yd.png",
+    "synopsisList":[
+      {
+        "title":"数据",
+        "synopsis_01":"拥有1000万忠实粉丝",
+        "synopsis_02":"头条平均阅读量50万+，非头条平均阅读量10万+"
+      },
+      {
+        "title":"用户",
+        "synopsis_01":"平台72%为女性用户",
+        "synopsis_02":"60%来自一二线经济、文化发达城市，注重品质生活"
+      },
+      {
+        "title":"行业",
+        "synopsis_01":"中国第一女性微刊",
+        "synopsis_02":"新榜500强，文化类排名第10名"
+      }
+    ],
+    "brandList":[
+      {
+        "url":"../../images/accounts/pp01.png",
+        "name":"美妆"
+      },
+      {
+        "url":"../../images/accounts/pp02.png",
+        "name":"汽车"
+      },
+      {
+        "url":"../../images/accounts/pp03.png",
+        "name":"金融"
+      },
+      {
+        "url":"../../images/accounts/pp04.png",
+        "name":"奢侈品"
+      },
+      {
+        "url":"../../images/accounts/pp05.png",
+        "name":"快消"
+      },
+      {
+        "url":"../../images/accounts/pp06.png",
+        "name":"家电"
+      },
+      {
+        "url":"../../images/accounts/pp07.png",
+        "name":"更多"
+      }
+    ],
+    "childplatform":[
+      {
+        "name":"她言他语",
+        "bgColor": "#137b85",
+        "logoUrl":"../../images/index/yuedu/icon01.png",
+        "codeUrl":"../../images/index/yuedu/code01.png",
+        "age":"20-45岁",
+        "module":"婚姻、情感、观点"
+      },
+      {
+        "name":"读书有方",
+        "bgColor": "#45b7c2",
+        "logoUrl":"../../images/index/yuedu/icon02.png",
+        "codeUrl":"../../images/index/yuedu/code02.jpg",
+        "age":"25-35岁",
+        "module":"社会热点、文化、观点、共读"
+      },
+      {
+        "name":"悦读文摘",
+        "bgColor": "#5ec9d3",
+        "logoUrl":"../../images/index/yuedu/icon03.png",
+        "codeUrl":"../../images/index/yuedu/code03.jpg",
+        "age":"25-45岁",
+        "module":"文化、教育、情感、热点"
+      },
+      {
+        "name":"悦读",
+        "bgColor": "#3cc1cc",
+        "logoUrl":"../../images/index/yuedu/icon04.png",
+        "codeUrl":"../../images/index/yuedu/code04.jpg",
+        "age":"20-45岁",
+        "module":"文化、教育、情感、热点"
+      },
+      {
+        "name":"小悦驿站",
+        "bgColor": "#5ec9d3",
+        "logoUrl":"../../images/index/yuedu/icon05.png",
+        "codeUrl":"../../images/index/yuedu/code05.jpg",
+        "age":"25-40岁",
+        "module":"婚姻、情感、观点"
+      }
+    ]
+  },
+  "educationResource":
+  {
+    "title":"以教育为核心的亲子教育矩阵",
+    "icon":"../../images/index/jiaoyu/title_icon.png",
+    "name":"教育",
+    "synopsis":"亲子教育第一品牌",
+    "slogan":"亲子/情感/成长/生活/社群",
+    "synopsisUrl":"../../images/index/jiaoyu/cover.png",
+    "synopsisList":[
+      {
+        "title":"数据",
+        "synopsis_01":"拥有600万忠实粉丝",
+        "synopsis_02":"头条平均阅读量20万+，非头条平均阅读量8万+"
+      },
+      {
+        "title":"用户",
+        "synopsis_01":"平台65%为女性用户, 年龄主要集中在25-45岁之间",
+        "synopsis_02":"以一二线年轻妈妈为主，注重亲子教育，健康生活"
+      },
+      {
+        "title":"行业",
+        "synopsis_01":"亲子教育第一平台",
+        "synopsis_02":"新榜500强，亲子教育类排名第2名"
+      }
+    ],
+    "brandList":[
+      {
+        "url":"../../images/index/jiaoyu/pp01.png",
+        "name":"母婴"
+      },
+      {
+        "url":"../../images/index/jiaoyu/pp02.png",
+        "name":"教育"
+      },
+      {
+        "url":"../../images/index/jiaoyu/pp03.png",
+        "name":"快消"
+      },
+      {
+        "url":"../../images/index/jiaoyu/pp04.png",
+        "name":"美妆"
+      },
+      {
+        "url":"../../images/index/jiaoyu/pp05.png",
+        "name":"服饰"
+      },
+      {
+        "url":"../../images/index/jiaoyu/pp06.png",
+        "name":"家电"
+      },
+      {
+        "url":"../../images/accounts/pp07.png",
+        "name":"更多"
+      }
+    ],
+    "childplatform":[
+      {
+        "name":"教育微刊",
+        "bgColor": "#137b85",
+        "logoUrl":"../../images/index/jiaoyu/icon01.png",
+        "codeUrl":"../../images/index/yuedu/code01.png",
+        "age":"25-45岁",
+        "module":"育儿知识、婚姻情感"
+      },
+      {
+        "name":"娇娇妈",
+        "bgColor": "#45b7c2",
+        "logoUrl":"../../images/index/jiaoyu/icon02.png",
+        "codeUrl":"../../images/index/yuedu/code02.jpg",
+        "age":"25-50岁",
+        "module":"育儿难题、家庭教育、育儿知识"
+      },
+      {
+        "name":"孩子成长读物",
+        "bgColor": "#5ec9d3",
+        "logoUrl":"../../images/index/jiaoyu/icon03.png",
+        "codeUrl":"../../images/index/yuedu/code03.jpg",
+        "age":"20-45岁",
+        "module":"家庭教育、成长教育、育儿难题"
+      },
+      {
+        "name":"教育",
+        "bgColor": "#3cc1cc",
+        "logoUrl":"../../images/index/jiaoyu/title_icon.png",
+        "codeUrl":"../../images/index/yuedu/code04.jpg",
+        "age":"25-50岁",
+        "module":"行业资讯、家庭教育、育儿知识"
+      },
+      {
+        "name":"亲子书社",
+        "bgColor": "#5ec9d3",
+        "logoUrl":"../../images/index/jiaoyu/icon05.png",
+        "codeUrl":"../../images/index/yuedu/code05.jpg",
+        "age":"20-45岁",
+        "module":"亲子教育、育儿难题、儿童读物"
+      }
+    ]
+  },
+  "caseYc":[
+    {
+      "imgUrl":"../../images/index/yuanchuang/img01.png",
+      "title":"人为什么要善良，这是我听过最好的答案",
+      "readNum":"阅读量: 1000W+",
+      "reprintNum":"转载数: 2500+",
+      "allReadNum":"全网阅读: 3亿+"
+    },
+    {
+      "imgUrl":"../../images/index/yuanchuang/img02.png",
+      "title":"欺凌同学被判13年，父母怒斥无法用钱摆平，你的 三观里，藏着孩子20年后的未来",
+      "readNum":"阅读量: 1000W+",
+      "reprintNum":"转载数: 1200+",
+      "allReadNum":"全网阅读: 13亿+"
+    },
+    {
+      "imgUrl":"../../images/index/yuanchuang/img03.png",
+      "title":"宋慧乔宋仲基大婚，余生，一定要和爱你的人在一起",
+      "readNum":"阅读量: 500W+",
+      "reprintNum":"转载数: 2000+",
+      "allReadNum":"全网阅读: 2亿"
+    }
+  ],
+  "caseYc_02":[
+    {
+      "imgUrl":"../../images/index/yuanchuang/img04.png",
+      "title":"你应该高质量的活着，而不是一生苟且",
+      "readTitle":"悦读 X 宝马",
+      "readNum":"阅读量: 1000W+",
+      "reprintNum":"转载数: 2500+",
+      "allReadNum":"全网阅读: 3亿+"
+    },
+    {
+      "imgUrl":"../../images/index/yuanchuang/img05.png",
+      "title":"48岁钟丽缇备孕四胎：我不勇敢，我只是很爱你",
+      "readTitle":"悦读 X 爱乐维",
+      "readNum":"阅读量: 1000W+",
+      "reprintNum":"转载数: 1200+",
+      "allReadNum":"全网阅读: 13亿+"
+    },
+    {
+      "imgUrl":"../../images/index/yuanchuang/img06.png",
+      "title":"如果你的孩子处在5-15岁之间，在忙也要花3分钟 好好看看",
+      "readTitle":"悦读 X 惠普",
+      "readNum":"阅读量: 500W+",
+      "reprintNum":"转载数: 2000+",
+      "allReadNum":"全网阅读: 2亿"
+    }
+  ],
+  "boutique":{
+    "title":"精品专栏",
+    "subheading":"悦读重点栏目",
+    "imgUrl":"../../images/index/articleCover/wkrw01.png",
+    "articleTitle":"木棉人物微刊",
+    "articleLabel":"榜样 . 价值 . 美好",
+    "articleContent":"悦读原创团队出品，每周三在悦读头条上线,以文化界、商界、娱乐界等杰出女性为对象，进行深度的解读和延伸, 为用户提供“有趣有料"
+  },
+  "articleList_01":[
+    {
+      "title":"这次，周迅是真的老了 ",
+      "imgUrl":"../../images/index/articleCover/zx.png"
+    },
+    {
+      "title":"看不上张爱玲，与林徽因做邻居，她是火 了一个世纪的中国最后贵族 ",
+      "imgUrl":"../../images/index/articleCover/zal.png"
+    },
+    {
+      "title":"从被骂“滚出娱乐圈”到电视剧女王，农村出身的赵丽颖凭什么能走到今天？",
+      "imgUrl":"../../images/index/articleCover/zly.png"
+    },
+    {
+      "title":"“恶人”董明珠：我用30年，造了一个不可 能的梦 ",
+      "imgUrl":"../../images/index/articleCover/dmz.png"
+    }
+  ],
+  "articleList_02":[
+    {
+      "title":"二胎妈妈深夜崩溃发文道歉：“妈妈不是脾 气差，是真的太累了……” ",
+      "imgUrl":"../../images/index/articleCover/img01.png"
+    },
+    {
+      "title":"7岁男孩不忍打骂报警抓妈妈：你情绪失控 的时候，孩子到底有多怕？",
+      "imgUrl":"../../images/index/articleCover/img02.png"
+    },
+    {
+      "title":"沙溢胡可爆发争吵：妈妈的情绪决定孩子的 命运，丈夫的态度决定妈妈的情绪！",
+      "imgUrl":"../../images/index/articleCover/img03.png"
+    },
+    {
+      "title":"《知否，知否》里养育男孩的秘诀，有儿 子的必须得看看！",
+      "imgUrl":"../../images/index/articleCover/img04.png"
+    }
+  ],
+  "emphasis":{
+    "title":"精品专栏",
+    "subheading":"悦读重点栏目",
+    "imgUrl":"../../images/index/articleCover/wkrw02.png",
+    "articleTitle":"《不完美妈妈》",
+    "articleLabel":"接纳 . 智慧 . 优雅",
+    "articleContent":"教育原创团队出品，每周二在“娇娇妈”公众号上线，从妈妈们的立场出发，分享最科学实用的育儿方法，引导妈妈们接纳育儿中不完美的自己，逐步成长为兼具智慧与优雅的好妈妈"
+  },
+  "cooperation":[
+    {
+      "imgUrl":"../../images/slides_01.png"
+    },
+    {
+      "imgUrl":"../../images/slides_01.png"
+    },
+    {
+      "imgUrl":"../../images/slides_01.png"
+    },
+    {
+      "imgUrl":"../../images/slides_01.png"
+    }
+  ]
+}

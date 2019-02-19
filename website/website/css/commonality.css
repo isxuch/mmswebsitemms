@@ -1,0 +1,260 @@
+body, h1, h2, h3, h4, h5, h6, hr, p, blockquote, dl, dt, dd, ul, ol, li, pre, form, fieldset, legend, button, input, textarea, th, td {
+  margin: 0;
+  padding: 0;
+}
+
+body, button, input, select, textarea {
+  font: 12px/1.5tahoma, arial, \5b8b\4f53;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: 100%;
+}
+
+address, cite, dfn, em, var {
+  font-style: normal;
+}
+
+code, kbd, pre, samp {
+  font-family: couriernew, courier, monospace;
+}
+
+small {
+  font-size: 12px;
+}
+
+ul, ol {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+sup {
+  vertical-align: text-top;
+}
+
+sub {
+  vertical-align: text-bottom;
+}
+
+legend {
+  color: #000;
+}
+
+fieldset, img {
+  border: 0;
+}
+
+button, input, select, textarea {
+  font-size: 100%;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+body {
+  /* min-width: 1600px; */
+}
+
+.clearfix:after, .clearfix:before {
+  content: "";
+  display: table;
+}
+
+.clearfix:after {
+  clear: both;
+}
+
+.clearfix {
+  zoom: 1;
+}
+
+.h3-title {
+  font-size: 48px;
+  width: 100%;
+  text-align: center;
+}
+
+.h4-title {
+  font-size: 32px;
+}
+
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100px;
+  background-color: #fff;
+  box-shadow: 0 2px 8px hsla(0, 0%, 96%, .96);
+  z-index: 9999;
+}
+
+.header-content {
+  width: 1200px;
+  height: 100%;
+  margin: 0 auto;
+}
+
+.h-c-l {
+  float: left;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.h-c-r {
+  float: right;
+}
+
+.navigation-ul {
+  width: 100%;
+}
+
+.navigation-ul li {
+  height: 100px;
+  line-height: 100px;
+  float: left;
+  padding: 0 20px;
+  color: #222;
+  cursor: pointer;
+  position: relative;
+}
+
+.navigation-ul li:after {
+  content: "";
+  width: 0;
+  height: 2px;
+  background: #3cc1cc;
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transition: all .5s;
+}
+
+.navigation-ul li:hover:after {
+  left: 0%;
+  width: 100%;
+}
+.navigation-ul .navActive{
+  border-bottom: 2px solid #3cc1cc;
+}
+
+.footer {
+  width: 100%;
+  height: 230px;
+  background-color: #282828;
+}
+
+.footer-con {
+  width: 1200px;
+  height: 100%;
+  margin: 0 auto;
+  color: #929292;
+}
+
+.footer-con-l {
+  width: 1000px;
+  height: 100%;
+  box-sizing: border-box;
+  padding-top: 50px;
+  float: left;
+}
+
+.connection {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+  box-sizing: border-box;
+  padding-left: 30px;
+  font-size: 14px;
+}
+
+.connection-item {
+}
+.connection-item img{
+  margin-right: 5px;
+  float: left;
+  position: relative;
+  margin-top: 2px;
+}
+
+.records {
+  width: 100%;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.records img{
+  margin-right: 5px;
+}
+
+.footer-con-r {
+  width: 200px;
+  height: 100%;
+  float: left;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  font-size: 14px;
+}
+
+.footer-con-r img {
+  width: 90px;
+  height: 90px;
+  margin-bottom: 10px;
+}
+
+/*图片呼吸*/
+.transitionImg {
+  transition: all 1s;
+}
+
+.transitionImg:hover {
+  transform: scale(1.05);
+  cursor: pointer;
+}
+
+/*经过高亮*/
+.Mengcheng{
+  position: relative;
+  cursor: pointer;
+}
+.Mengcheng:after {
+  content: "";
+  width: 10px;
+  height: 110%;
+  background: #fff;
+  opacity: .2;
+  position: absolute;
+  top: -5%;
+  left: -20px;
+  transform: rotate(20deg);
+}
+.Mengcheng:hover:after{
+  animation: myfirst  linear .5s;
+}
+@keyframes myfirst
+{
+from {left: 0;}
+to {left: 100%;}
+}
